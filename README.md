@@ -10,5 +10,5 @@ The full workflow will take a large .png image (~20k x 20k pixels) and do the fo
 4. Creates a heatmap of counted points across the image.
 
 # Software Needed
-MATLAB 2016b or later
+MATLAB 2016b or later  
 Computer Vision Toolbox is also required
