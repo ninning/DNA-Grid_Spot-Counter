@@ -1,2 +1,4 @@
-For technical reasons related to my project, I am only interested in counting the spots in the middle of the grid. The corner spots are meant
-to serve as reference points and are not counted in this script.
+For technical reasons related to my project, I am only interested in counting the spots in the middle of the grid. 
+The corner spots are meant to serve as reference points and are not counted in this script.
+
+For scale: Each spot is spaced roughly 20 nm apart in grid. Each pixel in image should correspond to roughly 2nm in size.
